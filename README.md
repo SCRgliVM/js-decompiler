@@ -1,0 +1,1 @@
+Usage: js-decompiler path-to-map-file directory-relative-to-current-where-put-sources
