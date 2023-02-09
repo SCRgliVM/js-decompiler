@@ -1,1 +1,6 @@
-Usage: js-decompiler path-to-map-file directory-relative-to-current-where-put-sources
+# JS Decompiler
+
+Decompile JS bundles using .map files
+
+Usage:
+    js-decompiler map-file directory
